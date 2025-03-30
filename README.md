@@ -1,6 +1,3 @@
-<kbd>
-  <img src="https://i.sstatic.net/CtiyS.png">
-</kbd>
 <h1 align="center">Hello World!! My name is Tiago!</h1>
 
 ###
