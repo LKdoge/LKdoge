@@ -77,7 +77,8 @@
 <br clear="both">
 
 <div align="center">
-  [![Portfolio link](https://i.postimg.cc/RVPwnZXr/portfolio-icon-white-sign-business-concept-flat-style-illustration-for-design-web-infographic-vector.png 'Portfolio link')](https://codecademy.com)
+  <img height="60" src="https://i.postimg.cc/RVPwnZXr/portfolio-icon-white-sign-business-concept-flat-style-illustration-for-design-web-infographic-vector.png" 
+  href="https://www.w3schools.com"/>
 </div>
 
 ###
