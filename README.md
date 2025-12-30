@@ -3,15 +3,6 @@
 </div>
 
 <h1 align="center">Hello World! My name is Tiago!</h1>
-
-<br clear="both">
-
-###
-
-<h4 align="center">Portfolio</h4>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -20,13 +11,7 @@
   </a>
 </div>
 
-###
-
-###
-
 <h1 align="center">Tech Stack</h1>
-
-###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
