@@ -4,19 +4,7 @@
 
 <h1 align="center">Hello World!! My name is Tiago!</h1>
 
-###
-
-<h3 align="center">Hello World!!</h3>
-
-###
-
 <br clear="both">
-
-###
-
-<h1 align="center">Tech</h1>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LKdoge/LKdoge/output/pacman-contribution-graph-dark.svg">
@@ -26,7 +14,7 @@
 
 ###
 
-<h2 align="center">Frameworks & Libraries</h2>
+<h1 align="center">Tech Stack</h1>
 
 ###
 
