@@ -6,11 +6,21 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LKdoge/LKdoge/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LKdoge/LKdoge/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LKdoge/LKdoge/output/pacman-contribution-graph.svg">
-</picture>
+###
+
+<h4 align="center">Portfolio</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.google.com">
+    <img height="60" src="https://i.postimg.cc/RVPwnZXr/portfolio-icon-white-sign-business-concept-flat-style-illustration-for-design-web-infographic-vector.png"/>
+  </a>
+</div>
+
+###
 
 ###
 
@@ -33,10 +43,6 @@
 </div>
 
 <div align="center">
-  <img height="25" src="https://i.postimg.cc/tRssmNzc/image-7.png"  />
-</div>
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -50,31 +56,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-
 <h1 align="left"></h1>
 
 ###
 
-<h4 align="center">Personal portfolio</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.google.com">
-    <img height="60" src="https://i.postimg.cc/RVPwnZXr/portfolio-icon-white-sign-business-concept-flat-style-illustration-for-design-web-infographic-vector.png"/>
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="25" src="https://i.postimg.cc/tRssmNzc/image-7.png"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LKdoge/LKdoge/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LKdoge/LKdoge/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LKdoge/LKdoge/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
