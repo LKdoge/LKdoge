@@ -7,9 +7,9 @@
   </a>
 </div>
 
-<h1 align="center">Tech Stack</h1>
-
 <div align="center">
+  <h1 align="center">Tech Stack</h1>
+  
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
