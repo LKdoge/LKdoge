@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="25" src="https://i.postimg.cc/tRssmNzc/image-7.png"  />
-</div>
-
 <h1 align="center">Hello World! My name is Tiago!</h1>
 <br clear="both">
 
